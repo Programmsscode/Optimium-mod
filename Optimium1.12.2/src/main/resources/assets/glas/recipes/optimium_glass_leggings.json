@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        "G G",
+        "G G"
+    ],
+    "key": {
+	    "G": {
+            "item": "glas:glassesoptimiumround"
+        }
+    },
+    "result": {
+        "item": "glas:optimium_glass_leggings",
+        "count": 1
+    }
+}

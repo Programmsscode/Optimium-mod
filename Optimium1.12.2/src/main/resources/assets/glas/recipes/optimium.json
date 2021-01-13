@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BB ",
+        "BB ",
+        "   "
+    ],
+    "key": {
+	    "B": {
+            "item": "glas:shatteredoptimium"
+        }
+    },
+    "result": {
+        "item": "glas:optimium",
+        "count": 1
+    }
+}

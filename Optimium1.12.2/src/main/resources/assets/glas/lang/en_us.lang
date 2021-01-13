@@ -1,0 +1,31 @@
+itemGroup.glas=Optimium mod
+item.optimium.name=§3Optimium
+item.glassesoptimiumround.name=§3Glass Optimium round
+item.shatteredoptimium.name=§3Shattered Optimium
+item.radium.name=§cRadium Shards
+item.radiumingot.name=§cRadium Ingot
+item.glassesingot.name=Glass Ingot
+item.optimium_glass_helmet.name=§3Optimium Glass Helmet
+item.optimium_glass_chestplate.name=§3Optimium Glass Chestplate
+item.optimium_glass_leggings.name=§3Optimium Glass Leggs
+item.optimium_glass_boots.name=§3Optimium Glass Boots
+item.toolaxe_radium.name=§cRadium Axe
+item.toolhoee_radium.name=§cRadium Hoee
+item.toolpickaxe_radium.name=§cRadium Pickaxe
+item.toolshovel_radium.name=§cRadium Shovel 
+item.toolsword_radium.name=§cRadium Sword
+tile.oreoptimium.name=§3Optimium Ore 
+tile.pressedglass.name=Pressed Glass
+item.instrumentaxe_optimium_glass.name=§3Optimium Glass Axe
+item.instrumenthoee_optimium_glass.name=§3Optimium Glass Hoe 
+item.instrumentpickaxe_optimium_glass.name=§3Optimium Glass Pickaxe
+item.instrumentshovel_optimium_glass.name=§3Optimium Glass Shovel 
+item.instrumentsword_optimium_glass.name=§3Optimium Glass Sword
+tile.oreradium.name=§cRadium Ore
+item.radium_helmet.name=§cRadium Helmet
+item.radium_chestplate.name=§cRadium Chestplate
+item.radium_leggings.name=§cRadium Leggs
+item.radium_boots.name=§cRadium Boots
+
+
+

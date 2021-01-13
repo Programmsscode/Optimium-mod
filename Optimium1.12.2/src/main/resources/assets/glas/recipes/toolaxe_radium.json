@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RR ",
+        "RS ",
+        " S "
+    ],
+    "key": {
+        "R": {
+            "item": "glas:radiumingot"
+        },
+	    "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "glas:toolaxe_radium",
+        "count": 1
+    }
+}

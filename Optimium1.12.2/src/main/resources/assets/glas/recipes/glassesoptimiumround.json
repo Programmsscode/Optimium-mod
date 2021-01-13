@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGO",
+        "GBO",
+        "GOO"
+    ],
+    "key": {
+        "G": {
+            "item": "glas:glassesingot"
+        },
+        "O": {
+            "item": "glas:optimium"
+           },
+	    "B": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "glas:glassesoptimiumround",
+        "count": 3
+    }
+}

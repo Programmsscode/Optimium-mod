@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "DOD",
+        "GGG"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "O": {
+            "item": "glas:optimium"
+           },
+	    "G": {
+            "item": "glas:pressedglass"
+        }
+    },
+    "result": {
+        "item": "glas:glassesingot",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "glas:items/instrumentaxe_optimium_glass"
+  }
+}

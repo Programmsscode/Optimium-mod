@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " G ",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "G": {
+            "item": "glas:glassesoptimiumround"
+        },
+	    "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "glas:instrumentshovel_optimium_glass",
+        "count": 1
+    }
+}
